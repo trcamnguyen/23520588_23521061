@@ -3,6 +3,7 @@
 #include <string>
 #include <iomanip>
 using namespace std;
+
 void Nhap(float&, float&);
 void Xuat(float, float);
 float KhoangCach(float, float, float, float);
